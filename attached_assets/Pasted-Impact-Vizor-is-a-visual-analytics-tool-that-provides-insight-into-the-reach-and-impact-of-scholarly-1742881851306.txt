@@ -1,0 +1,16 @@
+Impact Vizor is a visual analytics tool that provides insight into the reach and impact of scholarly content. It brings together early citation and usage data from multiple sources and consolidates it into self-service, interactive viewers. Thanks to its visual nature, Impact Vizor provides easily accessible editorial and business insight that can be accessed quickly by anyone regardless of their technical expertise.
+Impact Vizor integrates data about citations, usage, and social media with published metadata and internal editorial data to enable evidence-based decision-making about impact and resonance of research publications.
+Value Proposition:
+Provides insight into impact well ahead of traditional citation reporting, which can take up to 3 years, so that editors can take early action
+Empowers publishers and editors to make evidence-based decisions when shaping their publishing programs
+Provides a competitive advantage by visualizing impact for both published and rejected articles
+Integrates multiple sources to provide a thorough view into impact
+Updated regularly to provide a current snapshot of impact
+Saves costs as publishers are able to optimize engagement with consultants, who can now provide higher-value advice rather than spendingtime manually constructing a one-time report
+ 
+Highlights:
+Interactive and instant examination of impact by topic, by section, by an editor, by time, etc.
+Data and metadata is drawn from published content, industry databases, and manuscript systems such as BenchPress, eJournal Press, Scholar One, and Aries.  Publishers can provide custom metadata feeds as well.
+Impact Vizor consists of the Rejected-Article Tracker, Hot Article Tracker, Hot Object Tracker, Citation Distribution Surveyor, and 2 additional viewers, plus optional viewers as well.
+Strong Vizor user community who actively provides ideas for new Vizors and helps determine the priority order of releases.
+Easy filtering and point and click tools make Impact Vizor usable by non-technical and non-analyst staff.
