@@ -8,7 +8,7 @@ from utils.web_scraper import get_website_text_content, enrich_publication_data,
 
 # Page Configuration
 st.set_page_config(
-    page_title="Impact Vizor - Scholarly Impact Analytics",
+    page_title="Scholarly Impact Analytics",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
